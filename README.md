@@ -3,8 +3,6 @@
 <h2 align="center">Welcome to my GitHub profile!</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshivbp1812&label=Profile%20views&color=0e75b6&style=flat" alt="sakshivbp1812" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshivbp1812" alt="sakshivbp1812" /></a> </p>
-
 - 📫 How to reach me **sakshipatil0344@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
